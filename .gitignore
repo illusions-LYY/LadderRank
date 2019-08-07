@@ -1,0 +1,6 @@
+.idea/
+venv/
+*.jpq
+*.pptx
+__pycache__/
+
